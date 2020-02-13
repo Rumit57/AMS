@@ -36,7 +36,7 @@ public class LoginController {
 			return model;
 		}
 		else if(no==3)
-		{
+		{ 
 			model.setViewName("HRdeshboard");
 			return model;
 		}
